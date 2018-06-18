@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af759a3e-03e2-45bb-bdb3-c41cb77abcd9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/21731030_1450310961742412_9041270392336920682_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/Logo bol.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/MeC.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="151" column="44" lean-forward="true" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+            <state relative-caret-position="102">
+              <caret line="172" column="43" lean-forward="true" selection-start-line="172" selection-start-column="43" selection-end-line="172" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -117,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,29 +154,27 @@
             <path>
               <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="CosplayCompendium.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="testimonial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CosplayCompendium.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/UI-Web-comments/UI2 Web Examen 2017" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Seb\Documents\GitHub\CosplayCompendium.github.io\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,12 +218,16 @@
       <workItem from="1524045868789" duration="668000" />
       <workItem from="1527260349921" duration="92000" />
       <workItem from="1527260530098" duration="11000" />
-      <workItem from="1527280195847" duration="14000" />
+      <workItem from="1527280195847" duration="497000" />
+      <workItem from="1527585941146" duration="632000" />
+      <workItem from="1527665914598" duration="672000" />
+      <workItem from="1527669514874" duration="6000" />
+      <workItem from="1529343053972" duration="1236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24218000" />
+    <option name="totallyTimeSpent" value="27247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1666" y="0" width="1688" height="1447" extended-state="0" />
@@ -593,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="151" column="44" lean-forward="true" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+        <state relative-caret-position="102">
+          <caret line="172" column="43" lean-forward="true" selection-start-line="172" selection-start-column="43" selection-end-line="172" selection-end-column="43" />
           <folding />
         </state>
       </provider>
