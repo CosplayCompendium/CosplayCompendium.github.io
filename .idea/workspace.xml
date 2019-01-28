@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af759a3e-03e2-45bb-bdb3-c41cb77abcd9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/slider/bg-3.jpg" afterPath="$PROJECT_DIR$/img/slider/bg-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.idea/CosplayCompendium.github.io.iml" afterPath="$PROJECT_DIR$/.idea/CosplayCompendium.github.io.iml" />
+      <change beforePath="$PROJECT_DIR$/img/bg1.jpg" afterPath="$PROJECT_DIR$/img/bg1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/slider/bg-3.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,13 +22,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1309">
-              <caret line="344" column="66" lean-forward="false" selection-start-line="344" selection-start-column="66" selection-end-line="344" selection-end-column="66" />
+            <state relative-caret-position="510">
+              <caret line="681" column="42" lean-forward="false" selection-start-line="681" selection-start-column="42" selection-end-line="681" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#50471#50477#0" expanded="true" />
+                <element signature="e#47455#47461#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,13 +146,19 @@
               <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="CosplayCompendium.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CosplayCompendium.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="CosplayCompendium.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="slider" type="462c0819:PsiDirectoryNode" />
+              <item name="Sponsors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CosplayCompendium.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -233,12 +241,12 @@
       <workItem from="1529343053972" duration="1834000" />
       <workItem from="1531380318908" duration="140000" />
       <workItem from="1547499116923" duration="246000" />
-      <workItem from="1548715358701" duration="742000" />
+      <workItem from="1548715358701" duration="1387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28973000" />
+    <option name="totallyTimeSpent" value="29618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1666" y="0" width="1688" height="1447" extended-state="0" />
@@ -274,11 +282,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/team/team1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/team/team2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -300,7 +303,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -339,7 +342,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -378,7 +381,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -417,7 +420,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -456,7 +459,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -495,7 +498,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -526,7 +529,7 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,11 +606,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/21731030_1450310961742412_9041270392336920682_n.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/slider/bg-3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -628,15 +626,25 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/21731030_1450310961742412_9041270392336920682_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1309">
-          <caret line="344" column="66" lean-forward="false" selection-start-line="344" selection-start-column="66" selection-end-line="344" selection-end-column="66" />
+        <state relative-caret-position="510">
+          <caret line="681" column="42" lean-forward="false" selection-start-line="681" selection-start-column="42" selection-end-line="681" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#50471#50477#0" expanded="true" />
+            <element signature="e#47455#47461#0" expanded="true" />
           </folding>
         </state>
       </provider>
